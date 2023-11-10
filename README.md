@@ -1,4 +1,3 @@
-```markdown
 # Python Basics Projects
 
 Welcome to the Python Basics Projects repository. This collection of Python projects is designed for beginners looking to practice and enhance their programming skills. These projects cover a wide range of fundamental Python concepts and are great for learning, practice, and fun.
@@ -55,6 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Coded by Black Devil (L.S.C)
 
-Feel free to contribute, provide feedback, or suggest new projects. Happy coding!
-```
+**Feel free to contribute, provide feedback, or suggest new projects. Happy coding!**
+
 
