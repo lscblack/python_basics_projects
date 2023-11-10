@@ -16,7 +16,7 @@ Welcome to the Python Basics Projects repository. This collection of Python proj
    cd python_basics_projects
    ```
 
-3. Choose a project by navigating into its directory.
+3. Choose a project by navigating into this directory.
 
 4. Open the project's README to understand the project's requirements and how to run it.
 
