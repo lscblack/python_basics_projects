@@ -19,6 +19,7 @@ def main_app():
         print("..Thanks for Using Our App..")
         exit()
     else:
+        print("\033[31m Enter Valid Choice!!! \033[0m")
         main_app()
 
 
